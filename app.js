@@ -26,7 +26,7 @@ const cors = require('cors');
 
 
 const MONGODB_URI = 
-  "mongodb+srv://dung:Dung2002@cluster0.leotu.mongodb.net/online_learning";
+  "";
 // app.use(bodyParser.urlencoded({extended: false}));
 
 app.use(bodyParser.json());
