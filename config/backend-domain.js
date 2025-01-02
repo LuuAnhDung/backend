@@ -1,3 +1,3 @@
-const BACKEND_URL = "http://localhost:9000";
+const BACKEND_URL = "https://educobackend.azurewebsites.net";
 
 exports.BACKEND_URL = BACKEND_URL;
